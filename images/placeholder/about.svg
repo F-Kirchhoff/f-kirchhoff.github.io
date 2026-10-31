@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-label="Platzhalter Foto Praxisraum">
+  <rect width="1000" height="750" fill="#e7ded1"/>
+  <circle cx="330" cy="300" r="120" fill="#cdbfab"/>
+  <circle cx="640" cy="360" r="165" fill="#d6cab8"/>
+  <rect x="150" y="470" width="700" height="14" rx="7" fill="#cdbfab"/>
+  <text x="500" y="690" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" letter-spacing="6" fill="#938574">FOTO</text>
+</svg>
